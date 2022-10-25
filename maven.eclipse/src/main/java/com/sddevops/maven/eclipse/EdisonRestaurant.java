@@ -4,5 +4,5 @@ public class EdisonRestaurant
 {
 	private int id;
 	private String name;
-	private boolean address;
+	private int address;
 }
